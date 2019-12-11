@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<sqlConnection>
+    <sql>
+        <driver>com.mysql.jdbc.Driver</driver>
+        <url>jdbc:mysql://localhost:3306/bbs?characterEncoding=UTF-8</url>
+        <use>root</use>
+        <pwd>paul@outlook</pwd>
+    </sql>
+</sqlConnection>
